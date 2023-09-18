@@ -1,6 +1,5 @@
 # Intersection-Observer ![web-page](https://github.com/DarielEGM/Intersection-Observer/assets/123778387/8cefa9b3-91e5-4c09-b417-24a02861aeec)
 
-
 This project was built with JavaScript, HTML, and CSS.
 
 The goal of the application is to declare via the IntersectionObserver which block/blocks are currently visible to the user via a console message.
